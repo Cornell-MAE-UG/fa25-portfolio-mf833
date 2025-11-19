@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Manuely Feliz Portes
 description              : Manuely Feliz Portes - Projects and CV 
-/fall-2025-portfolio-Portes/                 : "" # Set this to your repo name 
+/fa25-portfolio-mf833/              : "" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
