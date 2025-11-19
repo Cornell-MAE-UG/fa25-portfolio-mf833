@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Manuely Feliz Portes
 ---
 
 ## About Me

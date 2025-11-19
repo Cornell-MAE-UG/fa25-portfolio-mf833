@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Manuely Feliz Portes - Portfolio
 permalink: /projects/
 ---
 
