@@ -15,8 +15,7 @@ I created a fully parametric 3D CAD model that accurately captures both the exte
 Beyond the external geometry, I focused heavily on the threading system between the bottle and its cap. I modeled the complete helical thread profile using a custom sketch and a precise sweep path, ensuring the pitch, depth, engagement, and clearances were realistic and manufacturable. 
 I replicated the double-wall vacuum-insulated structure characteristic of stainless-steel bottles, constructing concentric inner and outer shells with a realistic air gap. I also modeled the overal cap of the YETI water bottle. 
 
-![Photo of old radio]({{ "/assets/images/YetiCapWhite.jpg" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/YetiCapWhite.jpg" | relative_url }}){: .inline-image-l style="width: 200px"}
 
 Overall, this project helped me study how everyday consumer products combine aesthetic surfacing with engineering constraints, and it strengthened my skills in parametric modeling, detailed feature creation, and translating real-world measurements into an accurate CAD representation.
 
-![Photo of old radio]({{ "/assets/images/YetiAssembly.jpg" | relative_url }}){: .inline-image-l}
