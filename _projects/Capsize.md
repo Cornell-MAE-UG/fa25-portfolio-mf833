@@ -13,7 +13,7 @@ Capsize is a 12 lb Sportsman-class combat robot that we made the year I lead the
 
 ---
 
-### Drivetrain and Wheel Assembly
+# Drivetrain and Wheel Assembly
 
 ![Wheel assembly CAD]({{ "/assets/images/CapsizeWheelAssembly.jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
@@ -23,7 +23,7 @@ I designed the custom wheel assemblies around off-the-shelf motors and sprockets
 
 ---
 
-### Traction and Cleat Design
+# Traction and Cleat Design
 
 ![Cleat detail]({{ "/assets/images/CapsizeCleats.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
 
@@ -33,7 +33,7 @@ To maximize traction on the NHRL floor, I developed a cleated tread system. The 
 
 ---
 
-### Wedge Geometry and Front Armor
+# Wedge Geometry and Front Armor
 
 ![Wedge CAD]({{ "/assets/images/Capsizewedge.jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
@@ -49,7 +49,7 @@ The wedge assembly ties into side armor and top plates with a mix of slotted and
 
 ---
 
-### Sprocket and Drive Testing
+# Sprocket and Drive Testing
 
 ![Sprocket testing]({{ "/assets/images/Capsizesprockettesting .jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
@@ -59,7 +59,7 @@ Before committing to the final layout, I ran sprocket and chain tests to check a
 
 ---
 
-### Alternate Fork Configuration
+# Alternate Fork Configuration
 
 ![Fork configuration]({{ "/assets/images/Capsizeforkconfig.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
 
@@ -69,7 +69,7 @@ I also explored a fork configuration as an alternate front attachment. The goal 
 
 ---
 
-### Bare Wheel and Iteration
+# Bare Wheel and Iteration
 
 ![Bare chassis]({{ "/assets/images/Capsizewheelbare.jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
