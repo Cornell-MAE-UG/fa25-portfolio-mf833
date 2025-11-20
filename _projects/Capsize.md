@@ -57,5 +57,8 @@ This is what the wheel looks like underneath the uretheane. The reason for the g
 We used this circle to test the tension between the pulley and the wheel. This is crucial because if the pulley is too loose we risk it falling off and not driving our wheel. The opposite happens when it is too tight, the pulley runs risk of snapping. 
 
 
-![Capsize at competition]({{ "/assets/images/Capsizecomp.jpg" | relative_url }}){: .inline-image style="width: 260px;" }
-This is capsize at competition! 
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/Capsizecomp.jpg' | relative_url }}" style="width: 260px;">
+</div>
+
+This is capsize at competition!
