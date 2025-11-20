@@ -1,43 +1,4 @@
----
-layout: default
----
+--- layout: default --- 
 
-<div class="project-layout">
-  <!-- LEFT SIDEBAR -->
-  <aside class="project-sidebar">
-    <h2 class="project-sidebar-title">Projects</h2>
-    <ul class="project-sidebar-links">
-      {% for p in site.projects %}
-        <li>
-          <a href="{{ p.url | relative_url }}"{% if p.url == page.url %} class="active"{% endif %}>
-            {{ p.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </aside>
-
-  <!-- MAIN CONTENT -->
-  <div class="project-main">
-    <h1>{{ page.title }}</h1>
-
-    {% if page.image %}
-      <p>
-        <img src="{{ page.image | relative_url }}"
-             alt="{{ page.imagealt }}"
-             class="project-image" />
-      </p>
-    {% endif %}
-
-    {{ content }}
-
-    {% if page.skills %}
-      <p><strong>Skills Used</strong>: {{ page.skills | join: ", " }}</p>
-    {% endif %}
-
-    <!-- keep ONLY this Back link (bottom one) -->
-    <a href="{{ "/projects/" | relative_url }}" class="back-arrow">
-      <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
-    </a>
-  </div>
-</div>
+<h1>{{ page.title }}</h1>
+ <p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p> {{ content }} <p><strong>Skills Used</strong>: {{ page.skills | join: ", " }}</p> <a href={{ "/projects/" | relative_url }} class="back-arrow"> <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects </a>
