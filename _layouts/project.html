@@ -3,8 +3,7 @@ layout: default
 ---
 
 <div class="project-layout">
-
-  <!-- LEFT SIDEBAR THAT ONLY SHOWS ON PROJECT PAGES -->
+  <!-- LEFT SIDEBAR -->
   <aside class="project-sidebar">
     <h2 class="project-sidebar-title">Projects</h2>
     <ul class="project-sidebar-links">
@@ -16,13 +15,9 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
-    <a href="{{ "/projects/" | relative_url }}" class="project-back-link">
-      ← Back to Projects
-    </a>
   </aside>
 
-  <!-- MAIN CONTENT (WHAT YOU ALREADY HAD) -->
+  <!-- MAIN CONTENT -->
   <div class="project-main">
     <h1>{{ page.title }}</h1>
 
@@ -39,6 +34,10 @@ layout: default
     {% if page.skills %}
       <p><strong>Skills Used</strong>: {{ page.skills | join: ", " }}</p>
     {% endif %}
-  </div>
 
+    <!-- keep ONLY this Back link (bottom one) -->
+    <a href="{{ "/projects/" | relative_url }}" class="back-arrow">
+      <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+    </a>
+  </div>
 </div>
