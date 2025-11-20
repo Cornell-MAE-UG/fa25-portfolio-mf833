@@ -2,9 +2,7 @@
 layout: project
 title: Capsize
 description: Advanced CAD Project
-skills: [Autodesk Fusion 
-         ,FEA 
-         ,Electronics]
+skills: [Autodesk Fusion FEA Electronics]
 image: /assets/images/Capsizeforkconfig.jpg
 ---
 
