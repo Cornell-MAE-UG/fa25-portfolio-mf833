@@ -2,7 +2,7 @@
 layout: project
 title: Capsize
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+skills: [Autodesk Fusion, testing, materials, mold casting]
 image: /assets/images/Capsizeforkconfig.jpg
 ---
 
@@ -84,4 +84,4 @@ We used this circle to test the tension between the pulley and the wheel. This i
 <div style="clear: both;"></div>
 
 ![Capsize at competition]({{ "/assets/images/Capsizecomp.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
-This is capsize at competition! :). 
+This is capsize at competition! 
