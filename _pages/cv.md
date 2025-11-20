@@ -42,7 +42,7 @@ Aspiring engineering student with a strong foundation in robotics and fluids mec
   - First low kinnetic energy bot to win an NHRL match 
  *My part in Nardo were mainly the walkers*
 
-- **[Capsize (2024)](/fa25-portfolio-mf833/projects/2021-radio-rendering/)**:  
+- **[Capsize (2024)](/fa25-portfolio-mf833/projects/Capsize/)**:  
   *Capsize was a 12lb bot lifter. We wished to go with a simpler model to concentrate on the details rather than on the complexity. However we incorporated complexity in other ways. For example by casting our own mold of uretheane wheels. *  
   - First successful robot during her first competition. 
   - First time doing our own custom urethane wheels and steel cleats 
@@ -104,7 +104,7 @@ Aspiring engineering student with a strong foundation in robotics and fluids mec
 
 ---
 
-#### Extracurricular Activities
+#### Leadership Roles
 - Subteam Lead, Combat Robotics @ Cornell (Aug 2024 – Aug 2025)
   - Led a subteam of 9 engineers to design and assemble a 12-lb lifter-weapon combat robot.
   - Managed a 16-week design and manufacturing timeline under a $6,000 budget.
@@ -112,9 +112,6 @@ Aspiring engineering student with a strong foundation in robotics and fluids mec
 - Academic Chair, Society of Hispanic Engineers (Aug 2024 – May 2025)
   - Organized professional development workshops and cultural engagement events.
   - Supported a community of 30+ engineering students through mentorship and academic guidance.
-
-- Member, Society of Hispanic Engineers – Cornell Chapter  
-- Volunteer for STEM outreach events (SHPE, Google Code Next)
 
 ---
 
