@@ -14,8 +14,6 @@ Capsize is a 12 lb Sportsman-class combat robot that we made the year I lead the
 
 I designed the custom wheel assemblies around off-the-shelf motors and sprockets, targeting a balance between top speed and pushing power. The hubs, spacers, and bearing seats were modeled for easy machining and assembly while maintaining alignment under load. Chain routing and tension were verified in CAD and then adjusted after real-world testing.
 
-
-
 ![Cleat detail]({{ "/assets/images/CapsizeCleats.jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
 To maximize traction on the NHRL floor, I developed a cleated tread system. The cleats were positioned to increase the effective contact area without making the bot sluggish or overly aggressive on turning. I iterated on cleat spacing and height to avoid wheel slip while keeping manufacturing simple and repeatable for spares.
@@ -36,7 +34,7 @@ The wedge assembly ties into side armor and top plates with a mix of slotted and
 
 
 
-![Sprocket testing]({{ "/assets/images/Capsizesprockettesting .jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
+![Sprocket testing]({{ "/assets/images/Capsizesprockettesting.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
 
 Before committing to the final layout, I ran sprocket and chain tests to check alignment, tension, and backlash under load. These tests helped confirm that the drivetrain could handle rapid direction changes without derailing the chain or overloading the motors.
 
