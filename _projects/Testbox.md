@@ -16,6 +16,8 @@ The welded frame provides the rigidity needed to contain high-energy impacts and
 
 ![Photo of old radio]({{ "/assets/images/testboxunwelded.jpg" | relative_url }}){: .inline-image-l style="width: 200px"}
 
-To do the floor of the Testbox, we constructed and painted a separate wooden floor by individually cutting, sanding, and sizing each plank for a tight triangular fit. We installed the panels onto the welded frame and fully assembled the lid for easy access inside the testbox. This project strengthened my hands-on fabrication abilities: woodworking, welding, measurement precision, and structural assembly. While also giving the team a safe, reliable system for testing our combat robots under real load conditions.
+To do the floor of the Testbox, we constructed and painted a separate wooden floor by individually cutting, sanding, and sizing each plank for a tight triangular fit. We installed the panels onto the welded frame and fully assembled the lid for easy access inside the testbox.
 
 ![Photo of old radio]({{ "/assets/images/testboxwelding.jpg" | relative_url }}){: .inline-image-l style="width: 200px"}
+
+This project strengthened my hands-on fabrication abilities: woodworking, welding, measurement precision, and structural assembly. While also giving the team a safe, reliable system for testing our combat robots under real load conditions.
