@@ -42,7 +42,7 @@ Aspiring engineering student with a strong foundation in robotics and fluids mec
   - First low kinnetic energy bot to win an NHRL match 
  *My part in Nardo were mainly the walkers*
 
-- **[Capsize (2024)](/projects/2021-radio-rendering.md/)**:  
+- **[Capsize (2024)](/projects/2021-radio-rendering/)**:  
   *Capsize was a 12lb bot lifter. We wished to go with a simpler model to concentrate on the details rather than on the complexity. However we incorporated complexity in other ways. For example by casting our own mold of uretheane wheels. *  
   - First successful robot during her first competition. 
   - First time doing our own custom urethane wheels and steel cleats 
