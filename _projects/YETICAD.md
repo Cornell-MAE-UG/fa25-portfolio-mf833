@@ -2,7 +2,7 @@
 layout: project
 title: YETI 
 description: Advanced CAD Personal Project
-Skills: [Autodesk Fusion]
+skills: [Autodesk Fusion]
 image: /assets/images/YetiAssembly.jpg
 ---
 

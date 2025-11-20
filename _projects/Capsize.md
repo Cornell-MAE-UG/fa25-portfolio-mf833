@@ -2,7 +2,7 @@
 layout: project
 title: Capsize
 description: Advanced CAD Project
-Skills: [Autodesk Fusion]
+skills: [Autodesk Fusion]
 image: /assets/images/Capsizeforkconfig.jpg
 ---
 
