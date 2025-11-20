@@ -3,12 +3,9 @@ layout: project
 title: Capsize
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/Capsizeforkconfig.jpg
 ---
 
-## Capsize – 12 lb Combat Robot
-
-![Capsize at competition]({{ "/assets/images/Capsizecomp.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
 
 Capsize is a 12 lb Sportsman-class combat robot that we made the year I lead the subteam on Combat Robotics @ Cornell. I focused on the drivetrain, traction system, and front armor geometry to keep the bot maneuverable while surviving repeated high-energy impacts. The design went through several CAD and physical iterations before we finalized a competition-ready build. 
 
@@ -85,3 +82,6 @@ This is what the wheel looks like underneath the uretheane. The reason for the g
 We used this circle to test the tension between the pulley and the wheel. This is crucial because if the pulley is too loose we risk it falling off and not driving our wheel. The opposite happens when it is too tight, the pulley runs risk of snapping. 
 
 <div style="clear: both;"></div>
+
+![Capsize at competition]({{ "/assets/images/Capsizecomp.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
+This is capsize at competition! :). 
