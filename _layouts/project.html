@@ -4,8 +4,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" 
-class="project-image" /></p>
+<p>
+  <img src="{{ page.image | relative_url }}" 
+       alt="{{ page.imagealt }}" 
+       class="project-image" />
+</p>
 
 {{ content }}
 
