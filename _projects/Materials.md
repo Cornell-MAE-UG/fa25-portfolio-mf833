@@ -10,7 +10,7 @@ image: /assets/images/Materials/MaterialsDeformation.jpg
 For this project, we analyzed the structural behavior of an aluminum handle using both hand calculations and finite element modeling. My goal was to understand how well classical beam theory predicts real structural performance when compared to a full three dimensional simulation. I created a solid model of the handle, applied realistic boundary conditions, and evaluated the stress and displacement fields under load. This project helped me connect the idealized methods taught in class to the more detailed results produced by simulation tools such as ANSYS.
 <div style="clear: both;"></div>
 
-![Wheel assembly CAD]({{ "/assets/images/Materials/MaterialsCAD.jpg" | relative_url }}){: .center-image style="width: 600x;" }
+![Wheel assembly CAD]({{ "/assets/images/Materials/MaterialsCAD.jpg" | relative_url }}){: .center-image style="width: 500x;" }
 
 For this project we selected Aluminum 7075 T6 because it offers one of the highest strength-to-weight ratios among common aluminum alloys. It is widely used in aerospace and high-performance mechanical systems where low mass and high stiffness are important. The T6 tempering process provides excellent tensile strength and good fatigue resistance, which makes the material suitable for components subjected to repeated loading. In this analysis, 7075 T6 satisfied the project requirements by delivering the necessary stiffness, strength, and durability while keeping the overall weight low. Using this material allowed me to evaluate how a high-strength aluminum alloy responds to both global bending loads and the localized stresses captured in the finite element model. This material has a Young's modulus of 10.4 Mpsi and poisson's ratio of 0.3.
 
