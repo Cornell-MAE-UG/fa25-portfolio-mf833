@@ -2,7 +2,7 @@
 layout: project
 title: Analysis of Propane Stove
 description: Fluid Dynamics 
-skills: [Fluids]
+skills: [Bernoulli Equation, Mass Flow Analysis, Propane tank]
 image: /assets/images/propanepicture.jpg
 ---
 
