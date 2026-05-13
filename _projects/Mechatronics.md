@@ -3,7 +3,7 @@ layout: project
 title: Arduino
 description: Advanced Arduino Project
 skills: [CAD Circuit Diragram and Testing Arduino Testing]
-image: /assets/images/Mechatronics/Mechatronics.jpg.jpg
+image: /assets/images/Mechatronics/Mechatronics.jpg
 ---
 
 
