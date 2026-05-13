@@ -17,7 +17,7 @@ This is our mechatronics robot made to participate in a robot competition in whi
 This is the final design of our robot. It is made of PLA, duct tape and cardboard. The strategy was for the cubes to get in through the angled cardboard and then they will rest at the side.
 <div style="clear: both;"></div>
 
-![Wedge CAD]({{ "/assets/images/Mechatronics/Mechatronics.jpg" | relative_url }}){: .inline-image-r style="width: 260px;" }
+![Wedge CAD]({{ "/assets/images/Mechatronics/Mechatronics.jpg" | relative_url }}){: .inline-image-l style="width: 260px;" }
 
 During our competition our weakness was the following: we would get head to head with a robot and get knocked over. Or whenever we would round a corner our blocks would fall off the arena. 
 
